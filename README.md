@@ -1,6 +1,8 @@
 ### Olá! Eu sou a Ana👋
 
 - 🌱 Estudante de ADS 
+- Quality Assurance
+- Analista de engenharia
 - 📫 Também estou no LinkedIn: https://www.linkedin.com/in/anarosaleitedesouza/
 
 <div align="center">
